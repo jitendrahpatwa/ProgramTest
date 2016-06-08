@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Vamaship</title>
+	<title>My Test</title>
 
 	<link href="{{ asset('/css/app.css') }}" rel="stylesheet">
 
@@ -30,7 +30,7 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand w3-text-white" href="#">Vamaship</a>
+				<a class="navbar-brand w3-text-white" href="#">Programmer Test</a>
 			</div>
 
 			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
