@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Vamaship</title>
+		<title>My Test</title>
 		
 		<link href='//fonts.googleapis.com/css?family=Lato:100' rel='stylesheet' type='text/css'>
 		<link rel="stylesheet" type="text/css" href="{{asset('css/animate.css')}}">
@@ -40,7 +40,7 @@
 	<body>
 		<div class="container">
 			<div class="content">
-				<div class="title animated pulse">Vamaship</div>
+				<div class="title animated pulse">Programmer Test</div>
 				<div class="quote"><a onclick="location.assign('/auth/login');" style="cursor:pointer"><img src="http://www.tnafp.org/images/MemberLoginButton.png" style="width:50%;height:40%"></a><br><br><a onclick="location.assign('/auth/register');" style="cursor:pointer"><img src="http://atdc.org/wp-content/themes/atdc-fourteen/images/become_member.png"></a></div>
 			</div>
 		</div>
